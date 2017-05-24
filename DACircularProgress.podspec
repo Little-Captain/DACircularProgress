@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                     DACircularProgress is a UIView subclass with circular UIProgressView properties.
                     It was built to be an imitation of Facebook's photo progress indicator.
                    DESC
-  s.homepage     = "https://github.com/danielamitay/DACircularProgress"
+  s.homepage     = "https://github.com/Little-Captain/DACircularProgress"
   s.license      = 'MIT'
   s.author       = { "Daniel Amitay" => "hello@danielamitay.com" }
   s.source       = { :git => "https://github.com/Little-Captain/DACircularProgress.git", :tag => s.version.to_s }
